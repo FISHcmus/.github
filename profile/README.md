@@ -10,7 +10,8 @@
 > [!TIP] Thus what you consider to be good working conditions may not be good for you! There are many illustrations of this point. For example, working with one’s door closed lets you get more work done per year than if you had an open door, but I have observed repeatedly that later those with the closed doors, while working just as hard as others, seem to work on slightly the wrong problems, while those who have let their door stay open get less work done but tend to work on the right problems! I cannot prove the cause-and-effect relationship; I can only observed the correlation. I suspect the open mind leads to the open door, and the open door tends to lead to the open mind; they reinforce each other.
 > 
 > <p align="right"> <i>Richard Hamming - The art of Doing Science and Engineering - Learning how to Learn - Chapter: You and your research</i></p>
-> <details>
+
+<details>
 <summary>
 Tiếng Việt
 </summary>
