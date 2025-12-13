@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "hello.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "hello"
             }
           }
         ],
@@ -125,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for hello"
             }
           },
           {
@@ -143,11 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from hello"
             }
           },
           {
@@ -185,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mygod/hello world.md",
+                "file": "hello.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hello world"
+              "title": "Outline of hello"
             }
           }
         ]
@@ -212,19 +214,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "956c7c0b13b3c2a6",
+  "active": "28fcc7c8c6501447",
   "lastOpenFiles": [
     "hello2.md",
+    "hello.md",
+    "mygod/hello world.md",
     "attachment/Pasted image 20251213174729.png",
     "attachment/Pasted image 20251213174718.png",
     "damage/Untitled.md",
-    "mygod/hello world.md",
     "damage.d.ts",
     "index.d.ts",
     "index.md",
     "mygod",
     "damage/index.md",
-    "hello.md",
     "damage",
     "attachment",
     "hello world.md",
