@@ -49,14 +49,11 @@ jobs:
 #            CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           run:  |
             cd quartz
-            yarn 
-            yarn add wrangler -D
+            npm ci 
             cp ../fishcmus/* ./content/ -r
             cp ../fishcmus/quartz.config.ts ./
             cp ../fishcmus/quartz.layout.ts ./
-            cp ../fiscmus/wrangler_config/wrangler_user_doc.toml ./wrangler.toml
             npx  quartz build
-            npx wrangler pages deploy
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
