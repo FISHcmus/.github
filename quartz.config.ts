@@ -10,7 +10,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
     configuration: {
-        pageTitle: "HISTORICA",
+        pageTitle: "FISCMUS",
         enableSPA: true,
         enablePopovers: true,
         // discussion: {
@@ -27,7 +27,7 @@ const config: QuartzConfig = {
             provider: null,
         },
         locale: "en-US",
-        baseUrl: "https://v4.historica.pages.dev",
+        baseUrl: "https://fishcmus.github.io",
         ignorePatterns: ["private", "templates", ".obsidian","./README.md","./profile/README.md"],
         defaultDateType: "created",
         theme: {
