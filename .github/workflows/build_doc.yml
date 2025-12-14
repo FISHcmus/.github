@@ -40,7 +40,8 @@ jobs:
       -   name: set up node
           uses: actions/setup-node@v4
           with:
-            node-version: '20'
+            node-version: '>=22'
+
 
       -   name: build and deploy doc
 #          env:
