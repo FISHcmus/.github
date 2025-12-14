@@ -11,8 +11,8 @@ export const sharedPageComponents: SharedLayout = {
     footer: Component.Footer(
         {
             links: {
-                "Source code": "https://github.com/fiscmus/",
-                "RSS": "https://fishcmus.github.io/index.xml"
+                "Source code": "https://github.com/fishcmus/",
+                "RSS": "https://archive.fishcmus.io.vn/index.xml"
                 ,
             },
         }),
