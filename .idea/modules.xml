@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/github_fishcmus.iml" filepath="$PROJECT_DIR$/.idea/github_fishcmus.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../quartz/.idea/quartz.iml" filepath="$PROJECT_DIR$/../quartz/.idea/quartz.iml" />
     </modules>
   </component>
 </project>

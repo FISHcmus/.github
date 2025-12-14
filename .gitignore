@@ -1,0 +1,6 @@
+/.wrangler/tmp/
+/.obsidian/plugins/
+/node_modules/
+/.obsidian/workspace.json
+/.obsidian/
+/public/
