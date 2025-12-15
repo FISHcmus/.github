@@ -1,18 +1,18 @@
-[submodule "semester 1/calculus 1"]
-	path = semester 1/calculus 1
-	url = https://github.com/FISHcmus/calculus1.git
-[submodule "semester 1/hoadaicuong"]
-	path = semester 1/hoadaicuong
-	url = https://github.com/FISHcmus/general-chemistry1.git
-[submodule "semester 1/lop_maclenin"]
-	path = semester 1/lop_maclenin
+[submodule "semester-1/calculus-1"]
+	path = semester-1/calculus-1
+	url = https://github.com/FISHcmus/calculus-1.git
+[submodule "semester-1/general-chemistry-1"]
+	path = semester-1/general-chemistry-1
+	url = https://github.com/FISHcmus/general-chemistry-1.git
+[submodule "semester-1/intro-marxism-leninism"]
+	path = semester-1/intro-marxism-leninism
 	url = https://github.com/FISHcmus/intro-marxism-leninism.git
-[submodule "semester 1/introtoedtech"]
-	path = semester 1/introtoedtech
+[submodule "semester-1/intro-edtech"]
+	path = semester-1/intro-edtech
 	url = https://github.com/FISHcmus/intro-edtech.git
-[submodule "semester 1/linear algebra"]
-	path = semester 1/linear algebra
-	url = https://github.com/FISHcmus/linear-algebra-1.git
-[submodule "semester 1/marxism economic"]
-	path = semester 1/marxism economic
+[submodule "semester-1/linear-algebra"]
+	path = semester-1/linear-algebra
+	url = https://github.com/FISHcmus/linear-algebra.git
+[submodule "semester-1/marxism-economic"]
+	path = semester-1/marxism-economic
 	url = https://github.com/FISHcmus/marxism-economic.git
