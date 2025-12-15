@@ -3,7 +3,7 @@
 	url = https://github.com/FISHcmus/calculus-1.git
 [submodule "semester-1/general-chemistry-1"]
 	path = semester-1/general-chemistry-1
-	url = https://github.com/FISHcmus/general-chemistry-1.git
+	url = https://github.com/FISHcmus/general-chemistry-1
 [submodule "semester-1/intro-marxism-leninism"]
 	path = semester-1/intro-marxism-leninism
 	url = https://github.com/FISHcmus/intro-marxism-leninism.git
@@ -16,3 +16,4 @@
 [submodule "semester-1/marxism-economic"]
 	path = semester-1/marxism-economic
 	url = https://github.com/FISHcmus/marxism-economic.git
+
