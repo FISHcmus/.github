@@ -27,14 +27,22 @@ Suy cho cùng cái mà bạn nghĩ là điều kiện làm việc tốt chưa ch
 
 
 ## Chương trình học bao gồm
-### Học kỳ 1
+### Học kỳ 1 (2025-2026)
 
 | Name                                                               | Github                                                       | Drive                                                                                         |
 | ------------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
-| Đại số tuyến tính (Linear Algebra)                                 | [github](https://github.com/FISHcmus/linear-algebra-1)       | [drive](https://drive.google.com/drive/folders/16B8O_XoGkg3vs1zrnzo-k5av2VZZzuxx?usp=sharing) |
-| Vi tích phân 1 (Calculus)                                          | [github](https://github.com/FISHcmus/calculus1b)             | [drive](https://drive.google.com/drive/folders/1GTjIh7Dk1RKBnJRj7qYDtG9VJS_VSYfy?usp=sharing) |
-| Hóa đại cương 1 (General Chemistry 1 )                             | [github](https://github.com/FISHcmus/general-chemistry1)     | [drive](https://drive.google.com/drive/folders/14AejewJJ0vbOeLwGlc1cqxl9PBKBP6Xi?usp=sharing) |
-| Nhập môn Triết học Mác Lênin (Introduction to Marxism - Lenism     | [github](https://github.com/FISHcmus/intro-marxism-leninism) | [drive](https://drive.google.com/drive/folders/12K3ql_9ieiUYbSlV5ZN0yGm_L3EcxS3L?usp=sharing) |
-| Kinh tế chính trị Mác (Marxism Ecomnomic)                          | [github](https://github.com/FISHcmus/marxism-economic)       | [drive](https://drive.google.com/drive/folders/1VKo4ADtv0ApWQtPXyGGq05CGCtP4vnC6?usp=sharing) |
+| Đại số tuyến tính (Linear Algebra)                                 | [github](https://github.com/FISHcmus/linear-algebra)         | [drive](https://drive.google.com/drive/folders/16B8O_XoGkg3vs1zrnzo-k5av2VZZzuxx?usp=sharing) |
+| Vi tích phân 1 (Calculus 1)                                        | [github](https://github.com/FISHcmus/calculus-1)             | [drive](https://drive.google.com/drive/folders/1GTjIh7Dk1RKBnJRj7qYDtG9VJS_VSYfy?usp=sharing) |
+| Hóa đại cương 1 (General Chemistry 1)                              | [github](https://github.com/FISHcmus/general-chemistry-1)    | [drive](https://drive.google.com/drive/folders/14AejewJJ0vbOeLwGlc1cqxl9PBKBP6Xi?usp=sharing) |
+| Nhập môn Triết học Mác Lênin (Introduction to Marxism-Leninism)    | [github](https://github.com/FISHcmus/intro-marxism-leninism) | [drive](https://drive.google.com/drive/folders/12K3ql_9ieiUYbSlV5ZN0yGm_L3EcxS3L?usp=sharing) |
+| Kinh tế chính trị Mác (Marxism Economic)                           | [github](https://github.com/FISHcmus/marxism-economic)       | [drive](https://drive.google.com/drive/folders/1VKo4ADtv0ApWQtPXyGGq05CGCtP4vnC6?usp=sharing) |
 | Nhập môn Công nghệ Giáo dục (Introduction to Education Technology) | [github](https://github.com/FISHcmus/intro-edtech)           | [drive](https://drive.google.com/drive/folders/1MuM4cpNZKCjlvqzbN6XECwkuaNgXe04g?usp=sharing) |
+
+### Học kỳ 2 (2025-2026)
+
+| Name                                                               | Github                                                       |
+| ------------------------------------------------------------------ | ------------------------------------------------------------ |
+| Nhập môn Lập trình hướng đối tượng (Introduction to OOP 1)        | [github](https://github.com/FISHcmus/intro-oop1)             |
+| Nhập môn Khoa học Giáo dục (Introduction to Education Science)     | [github](https://github.com/FISHcmus/intro-edu-science)      |
+| Chủ nghĩa xã hội khoa học (Scientific Socialism)                  | [github](https://github.com/FISHcmus/science-socialism)      |
 
